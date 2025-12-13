@@ -7,7 +7,7 @@
 #include "Course.h"
 
 
-class StudentOffice; // forward declaration
+class StudentOffice; 
 
 
 class Student {
